@@ -32,3 +32,9 @@ s.no|name|designation
 1|akhil|student
 2|balaya|actor
 
+~~strike it bro~~
+
+:smile:
+	~~This was mistaken text~~
+ <!-- This content will not appear in the rendered Markdown -->
+
